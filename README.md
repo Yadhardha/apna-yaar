@@ -1,3 +1,3 @@
 # apna-yaar
 This is example repo
-Author -yadhardha
+Author -yadhardha_official
